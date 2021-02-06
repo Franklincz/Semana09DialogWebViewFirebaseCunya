@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "509955524941",
+    "firebase_url": "https://proyectofirebasecunya.firebaseio.com",
+    "project_id": "proyectofirebasecunya",
+    "storage_bucket": "proyectofirebasecunya.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509955524941:android:4b7e91224fc3394882cf04",
+        "android_client_info": {
+          "package_name": "com.example.semana09dialogwebviewfirebasecunya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "509955524941-cvqi3sn2e97994jov7aashbqrl6v0j81.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2e4bIP257ZhJyOeVZQdUzN_BcrlolBlQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "509955524941-cvqi3sn2e97994jov7aashbqrl6v0j81.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
